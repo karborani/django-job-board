@@ -24,6 +24,6 @@ Blog :
     -recent posts
 
 contect :
-    -home
+home :
 
-log-in   
+log-in  :
